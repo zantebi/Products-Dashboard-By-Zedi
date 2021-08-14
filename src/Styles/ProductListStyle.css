@@ -1,0 +1,15 @@
+.product-list {
+    flex: 0.49;
+    align-items: flex-start;
+    padding-left: 0.4rem;
+}
+
+.product-item {
+    flex: 1;
+    margin-top: 2%;
+}
+
+.delete-button {
+    float: right;
+    margin-top: -3vh;
+}

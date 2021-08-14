@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    display: flex;
+}
+
+.App-header {
+    background-color: #1AA3E8;
+    flex: 1;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.text {
+    float: left;
+    margin-left: 15px;
+    color: black;
+}
